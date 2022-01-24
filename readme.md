@@ -19,6 +19,9 @@
 <span align="center"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></span>
 <span align="center"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></span>
 
+**My Projects:**
+
+
    **My Stats:**
    
  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabanerjee" img align="center"/></span>   
