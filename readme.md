@@ -19,12 +19,13 @@
 <span align="center"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></span>
 <span align="center"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></span>
 
- **You can reach me on:**
-
-<a href="https://www.linkedin.com/in/julia-banerjee-0a40511b0/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   
    **My Stats:**
    
  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabanerjee" img align="center"/></span>   
  <span><img src="https://github-readme-stats.vercel.app/api?username=juliabanerjee" img align="center"/> </span>   
 
+**You can reach me on:**
+
+<a href="https://www.linkedin.com/in/julia-banerjee-0a40511b0/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+   
