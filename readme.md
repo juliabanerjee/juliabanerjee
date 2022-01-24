@@ -1,12 +1,12 @@
-About Me:
+<p> About Me: </p>
 
-Hi👋, my name is Julia and I am a junior software developer.
+<p> Hi👋, my name is Julia and I am a junior software developer.
 
-My pronouns are they/them 🏳️‍🌈
+My pronouns are they/them 🏳️‍🌈 </p>
 
 
 
-My Skills:
+<p> My Skills:</p>
 
 - HTML <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></span>
 - CSS <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -19,11 +19,11 @@ My Skills:
 - MySQL <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 - Google Cloud Platform <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
-You can reach me on:
+   <p> You can reach me on:</p>
 
 <a href="https://www.linkedin.com/in/julia-banerjee-0a40511b0/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    
-  My Stats:
+   <p> My Stats: </p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabanerjee" img align="center"/>    
  <img src="https://github-readme-stats.vercel.app/api?username=juliabanerjee" img align="center"/>   
 
