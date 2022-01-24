@@ -23,6 +23,7 @@
    
  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabanerjee" img align="center"/></span>   
  <span><img src="https://github-readme-stats.vercel.app/api?username=juliabanerjee" img align="center"/> </span>   
+ <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=juliabanerjee" img align="center"/> </span>   
 
 **You can reach me on:**
 
