@@ -24,6 +24,7 @@
 <a href="https://www.linkedin.com/in/julia-banerjee-0a40511b0/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    
    **My Stats:**
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabanerjee" img align="center"/>    
- <img src="https://github-readme-stats.vercel.app/api?username=juliabanerjee" img align="center"/>   
+   
+ <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabanerjee" img align="center"/></span>   
+ <span><img src="https://github-readme-stats.vercel.app/api?username=juliabanerjee" img align="center"/> </span>   
 
