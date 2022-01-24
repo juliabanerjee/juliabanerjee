@@ -1,4 +1,4 @@
-<p> About Me: </p>
+<p text-decoration="underline"> About Me: </p>
 
 <p> Hi👋, my name is Julia and I am a junior software developer.
 
