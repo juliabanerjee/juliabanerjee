@@ -8,7 +8,7 @@ My pronouns are they/them 🏳️‍🌈
 
 My Skills:
 
-- HTML <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" img align="center"/> 
+- HTML <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" img align="center"/></p>
 - CSS <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" img align="center"/>
 - Sass <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" img align="center"/>
 - NPM <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" img align="center"/>
@@ -24,6 +24,5 @@ You can reach me on:
 <a href="https://www.linkedin.com/in/julia-banerjee-0a40511b0/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    
    
-   https://github-readme-stats.vercel.app/api?username=juliabanerjee
-
-
+ <img src="https://github-readme-stats.vercel.app/api?username=juliabanerjee" img align="center"/>   
+<img src="https://github-readme-stats.vercel.app/api?username=juliabanerjee&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
