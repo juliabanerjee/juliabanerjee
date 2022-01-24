@@ -1,14 +1,14 @@
-<p > **About Me:** </p>
+**Hi there👋** 
 
-<p> Hi👋, my name is Julia and I am a junior software developer.
+<p>My name is Julia and I am a junior fullstack software developer.
 
-My pronouns are they/them 🏳️‍🌈 </p>
+<p>My pronouns are they/them 🏳️‍🌈 </p>
 
 
 
-<p> My Skills:</p>
+**My Skills:**
 
-- HTML <span align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></span>
+- HTML            <span align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></span>
 - CSS <span align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></span>
 - Sass <span align="center"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></span>
 - NPM <span align="center"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></span>
@@ -19,11 +19,11 @@ My pronouns are they/them 🏳️‍🌈 </p>
 - MySQL <span align="center"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></span>
 - Google Cloud Platform <span align="center"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></span>
 
-   <p> You can reach me on:</p>
+ **You can reach me on:**
 
 <a href="https://www.linkedin.com/in/julia-banerjee-0a40511b0/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    
-   <p> My Stats: </p>
+   **My Stats:**
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabanerjee" img align="center"/>    
  <img src="https://github-readme-stats.vercel.app/api?username=juliabanerjee" img align="center"/>   
 
