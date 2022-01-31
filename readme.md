@@ -1,6 +1,6 @@
 **Hi there👋** 
 
-<p>My name is Julia and I am a junior fullstack software developer.
+<p>My name is Julia and I am a junior fullstack software developer who is looking to kickstart their career in tech!</p>
 
 <p>My pronouns are they/them 🏳️‍🌈 </p>
 
