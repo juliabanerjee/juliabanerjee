@@ -18,7 +18,7 @@
 <span align="center"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /></span>
 <span align="center"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></span>
 <span align="center"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></span>
-<span align="center"><img src="" /></span>
+<span align="center"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /></span>
 <span align="center"><img src="" /></span>
 <span align="center"><img src="" /></span>
 
